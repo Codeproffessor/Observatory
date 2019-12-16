@@ -524,19 +524,19 @@
       left: 0;
   }
   .photo1{
-      background: url(file:///C:/Users/rafik.mirakyan/Desktop/Byurakan%20Observatory/img/YeghikyanArarat.jpg);
+      background: url(/img/YeghikyanArarat.jpg);
       background-position: top center;
         -webkit-background-size: 40%;
                 background-size: cover;
   }
   .photo2{
-    background: url(file:///C:/Users/rafik.mirakyan/Desktop/Byurakan%20Observatory/img/SamsonyanAnahit.jpg);
+    background: url(/img/SamsonyanAnahit.jpg);
       background-position: top center;
         -webkit-background-size: 40%;
                 background-size: cover;
   }
   .photo3{
-    background: url(file:///C:/Users/rafik.mirakyan/Desktop/Byurakan%20Observatory/img/HakobyanArmen.jpg);
+    background: url(/img/HakobyanArmen.jpg);
       background-position: top center;
         -webkit-background-size: 40%;
                 background-size: cover;

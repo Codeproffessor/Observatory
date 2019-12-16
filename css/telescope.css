@@ -479,7 +479,7 @@ div#hill {
     z-index: 2;
     height: 80vh;
     width: 100%;
-    background-image: url();
+    background-image: url(/img/back.jpg);
     /* used to vertical align its content */
     display: table;
     transition: -webkit-transform 0.5s;
@@ -940,7 +940,7 @@ div#hill {
     width: 100%;
     height: 100%;
     visibility: hidden;
-    background-image: url(img/Victor.jpg);
+    background-image: url(/img/logo.jpg);
     text-align: left;
     /* Force Hardware Acceleration */
     -webkit-transform: translateZ(0);
@@ -1070,3 +1070,7 @@ div#hill {
     }
   }
   
+  #textarea{
+    height: 2000px;
+    width: 1100px;
+  }

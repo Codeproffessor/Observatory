@@ -163,22 +163,22 @@
   }
 
   body {
-    background-image: url(file:///C:/Users/rafik.mirakyan/Desktop/Byurakan%20Observatory/img/solar.png); }
+    background-image: url(/img/solar.png); }
   
   #universe {
-    background-image: url(file:///C:/Users/rafik.mirakyan/Desktop/Byurakan%20Observatory/img/universe.png); }
+    background-image: url(/img/universe.png); }
   
   #sun {
-    background-image: url(file:///C:/Users/rafik.mirakyan/Desktop/Byurakan%20Observatory/img/sun.png); }
+    background-image: url(/img/sun.png); }
   
   #mercury .planet {
-    background-image: url(file:///C:/Users/rafik.mirakyan/Desktop/Byurakan%20Observatory/img/mercury.png); }
+    background-image: url(/img/mercury.png); }
   
   #venus .planet {
-    background-image: url(file:///C:/Users/rafik.mirakyan/Desktop/Byurakan%20Observatory/img/venus.png); }
+    background-image: url(/img/venus.png); }
   
   #earth .planet {
-    background-image: url(file:///C:/Users/rafik.mirakyan/Desktop/Byurakan%20Observatory/img/earth.png); }
+    background-image: url(/img/earth.png); }
   
   #earth .moon {
     background-color: white; }

@@ -525,37 +525,37 @@
       left: 0;
   }
   .photo1{
-      background: url(file:///C:/Users/rafik.mirakyan/Desktop/Byurakan%20Observatory/img/AndreasyanRuben.jpg);
+      background: url(/img/AndreasyanRuben.jpg);
       background-position: top center;
         -webkit-background-size: 40%;
                 background-size: cover;
   }
   .photo2{
-    background: url(file:///C:/Users/rafik.mirakyan/Desktop/Byurakan%20Observatory/img/HakopianSusanna.jpg);
+    background: url(/img/HakopianSusanna.jpg);
       background-position: top center;
         -webkit-background-size: 40%;
                 background-size: cover;
   }
   .photo3{
-    background: url(file:///C:/Users/rafik.mirakyan/Desktop/Byurakan%20Observatory/img/MahtessianAbraham.jpg);
+    background: url(/img/MahtessianAbraham.jpg);
       background-position: bottom center;
         -webkit-background-size: 50%;
                 background-size: cover;
   }
   .photo4{
-    background: url(file:///C:/Users/rafik.mirakyan/Desktop/Byurakan%20Observatory/img/AmirkhanianArtur.jpg);
+    background: url(/img/AmirkhanianArtur.jpg);
       background-position:  center;
         -webkit-background-size: 40%;
                 background-size: cover;
   }
   .photo5{
-    background: url(file:///C:/Users/rafik.mirakyan/Desktop/Byurakan%20Observatory/img/YeghiazaryanAnahit.jpg);
+    background: url(/img/YeghiazaryanAnahit.jpg);
       background-position:  center;
         -webkit-background-size: 40%;
                 background-size: cover;
   }
   .photo6{
-    background: url(file:///C:/Users/rafik.mirakyan/Desktop/Byurakan%20Observatory/img/OhanianGabriel.jpg);
+    background: url(/img/OhanianGabriel.jpg);
       background-position: bottom center;
         -webkit-background-size: 40%;
                 background-size: cover;

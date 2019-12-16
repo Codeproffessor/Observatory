@@ -867,7 +867,7 @@
     width: 100%;
     height: 100%;
     visibility: hidden;
-    background-image: url(file:///C:/Users/rafik.mirakyan/Desktop/Byurakan%20Observatory/img/logo.jpg);
+    background-image: url(/img/logo.jpg);
     text-align: left;
     /* Force Hardware Acceleration */
     -webkit-transform: translateZ(0);
